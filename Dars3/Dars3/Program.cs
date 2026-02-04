@@ -1,4 +1,4 @@
-﻿namespace ConsoleApp1
+﻿namespace Dars3
 {
     internal class Program
     {
