@@ -320,6 +320,159 @@
             //    }
             //}
             //Console.WriteLine(sum);
+
+            // 1.3.1 25
+
+            //Console.WriteLine("a sonini k riting: ");
+            //int a = int.Parse(Console.ReadLine());
+
+            //bool isPrime = true;
+
+            //if (a <= 1)
+            //{
+            //    isPrime = false;
+            //}
+            //else
+            //{
+            //    for (int i = 2; i < a; i++)
+            //    {
+            //        if (a % i == 0)
+            //        {
+            //            isPrime = false;
+            //            break;
+            //        }
+            //    }
+            //}
+            //Console.WriteLine(isPrime);
+
+
+            // 1.3.1 26 
+
+            //Console.WriteLine("a sonini kiriting: ");
+            //int a = int.Parse(Console.ReadLine());
+
+            //Console.WriteLine("b sonini kiriting: ");
+            //int b = int.Parse(Console.ReadLine());
+
+            //bool IsAPrime = true;
+            //bool IsBPrime = true;
+
+            //if (a <= 1)
+            //{
+            //    IsAPrime = false;
+            //}
+            //else
+            //{
+            //    for (int i = 2; i < a; i++)
+            //    {
+            //        if (a % i == 0)
+            //        {
+            //            IsAPrime = false;
+            //            break;
+            //        }
+            //    }
+            //}
+
+            //if (b <= 1)
+            //{
+            //    IsBPrime = false;
+            //}
+            //else
+            //{
+            //    for (int i = 2; i < b; i++)
+            //    {
+            //        if (b % i == 0)
+            //        {
+            //            IsBPrime = false;
+            //            break;
+            //        }
+            //    }
+            //}
+
+            //if (IsAPrime && IsBPrime)
+            //{
+            //    Console.WriteLine(a + b);
+            //}
+            //else
+            //{
+            //    Console.WriteLine(a * b);
+            //}
+
+            // 1.3.1 27
+
+            //int pricePerKg = 7000;
+
+            //for (int kg = 2; kg <= 60; kg++)
+            //{
+            //    int totalPrice = kg * pricePerKg;
+            //    Console.WriteLine($"{kg} kg shakar narxi {totalPrice} so'm");
+            //}
+
+            // 1.3.1 28
+
+            //Console.WriteLine("n sonini kiriting: ");
+            //int n = int.Parse(Console.ReadLine());
+
+            //int count = 0;
+
+            //for (int i = 23; i <= n; i++)
+            //{
+            //    if (i % 3 != 0)
+            //    {
+            //        Console.WriteLine(i + " ");
+            //        count++;
+            //    }
+            //}
+
+            // 1.3.1 29
+
+            //Console.WriteLine("A sonini kiriting: ");
+            //int a = int.Parse(Console.ReadLine());
+            //Console.WriteLine("B sonini kiriting: ");
+            //int b = int.Parse(Console.ReadLine());
+
+            //int countA = 0;
+            //int countB = 0;
+
+            //for (int i = 1; i <= a; i++)
+            //{
+            //    if (a % i == 0)
+            //        countA++;
+            //}
+
+            //for (int i = 1; i <= b; i++)
+            //{
+            //    if (b % i == 0)
+            //        countB++;
+            //}
+            //if (countB < countA)
+            //{
+            //    Console.WriteLine($"A sonini bo'luvchilari ko'p {countA} ta");
+            //}
+            //else if (countA < countB)
+            //{
+            //    Console.WriteLine($"B sonini bo'luvchilari ko'p {countB} ta");
+
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Ikkala sonni ham bo'luvchilar teng");
+            //}
+
+
+            // 1.3.1 30
+
+            var a = 10;
+            var b = 15;
+
+            int summ = 0;
+
+            for (int i = a + 1; i < b; i++)
+            {
+                summ += i;
+            }
+            Console.WriteLine(summ);
+
         }
     }
 }
