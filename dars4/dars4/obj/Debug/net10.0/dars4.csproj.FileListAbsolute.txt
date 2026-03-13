@@ -1,0 +1,14 @@
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/bin/Debug/net10.0/dars4
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/bin/Debug/net10.0/dars4.deps.json
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/bin/Debug/net10.0/dars4.runtimeconfig.json
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/bin/Debug/net10.0/dars4.dll
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/bin/Debug/net10.0/dars4.pdb
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/dars4.GeneratedMSBuildEditorConfig.editorconfig
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/dars4.AssemblyInfoInputs.cache
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/dars4.AssemblyInfo.cs
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/dars4.csproj.CoreCompileInputs.cache
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/dars4.dll
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/refint/dars4.dll
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/dars4.pdb
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/dars4.genruntimeconfig.cache
+/home/u2410276/Coding/DotNet/Modul1/dars4/dars4/obj/Debug/net10.0/ref/dars4.dll
